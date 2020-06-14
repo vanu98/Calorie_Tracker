@@ -1,5 +1,7 @@
 # Calorie_Tracker
-Python based calorie tracker based on various diets
+Python based calorie tracker based on various diets.
+SqLite3 is used as database manager
+
 ## #100daysofcode
 
 ## Day - 17
