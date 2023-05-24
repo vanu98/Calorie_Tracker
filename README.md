@@ -14,4 +14,4 @@ SqLite3 is used as database manager
 
 https://github.com/vanu98/Calorie_Tracker
 
-Addition of the world
+Addition of the world, this the branch vans/trail/1.1
