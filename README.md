@@ -13,3 +13,4 @@ SqLite3 is used as database manager
 
 
 https://github.com/vanu98/Calorie_Tracker
+This is the master
